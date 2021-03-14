@@ -1,4 +1,6 @@
 
+# Important Note: quickSort function will pause the call each time a new call is made the resume the call later
+# in step by step control follow.  
 def partition(input_list,low,high):
     i = (low - 1)
     pivot = input_list[high]
