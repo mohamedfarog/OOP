@@ -25,4 +25,5 @@ list_length = len(input_l)
 quickSort(input_l, 0, list_length -1)
 print(input_l)
 
+# Refer to link bellow to check how the algorithm works
 #https://www.youtube.com/watch?v=COk73cpQbFQ
